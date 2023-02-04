@@ -13,5 +13,4 @@ uncovers bike share usage patterns
 chicago, washingtion, new_york_city csvs
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+https://www.youtube.com/watch?v=4c_mwnYdbhQ
