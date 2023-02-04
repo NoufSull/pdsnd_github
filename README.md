@@ -15,3 +15,6 @@ chicago, washingtion, new_york_city csvs
 
 ### Credits
 https://www.youtube.com/watch?v=4c_mwnYdbhQ
+
+## About me
+I'm Nouf Sultan, 21 years old, Information Systems student at KSU. 
