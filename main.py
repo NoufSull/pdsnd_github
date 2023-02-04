@@ -25,7 +25,8 @@ def get_filters():
         if city in CITY_DATA:
             bol = False
         else:
-            print("invalid city, try again")
+            print("invalid entry")
+            print("try again")
 
             # TO DO: get user input for month (all, january, february, ... , june)
     bol = True
@@ -204,7 +205,8 @@ def main():
         user_stats(df)
         display(df)
 
-        restart = input('\nWould you like to restart? Enter yes or no.\n')
+        print('\nwould you like to restart the process?')
+        restart = input('Enter yes or no.\n')
         if restart.lower() != 'yes':
             break
 
