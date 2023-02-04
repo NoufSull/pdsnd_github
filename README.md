@@ -7,7 +7,7 @@
 Bikeshare project
 
 ### Description
-Describe what your project is about and what it does
+uncovers bike share usage patterns
 
 ### Files used
 chicago, washingtion, new_york_city csvs
