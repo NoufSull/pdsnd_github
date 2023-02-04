@@ -25,7 +25,8 @@ def get_filters():
         if city in CITY_DATA:
             bol = False
         else:
-            print("invalid city, try again")
+            print("invalid entry")
+            print("try again")
 
             # TO DO: get user input for month (all, january, february, ... , june)
     bol = True
