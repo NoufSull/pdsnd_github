@@ -8,6 +8,7 @@ Bikeshare project
 
 ### Description
 uncovers bike share usage patterns
+in this project we will compare the system usage between three large cities, New York city, Chicago and Washington DC
 
 ### Files used
 chicago, washingtion, new_york_city csvs
